@@ -18,11 +18,7 @@
     "core-js": "^3.6.5",
     "cors": "^2.8.5",
     "vue": "^2.6.11",
-    "vue-file-agent": "^1.7.3",
-    "vue-js-modal": "^2.0.0-rc.6",
     "vue-router": "^3.2.0",
-    "vue-simple-alert": "^1.1.1",
-    "vuejs-overlay": "0.0.28",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
@@ -36,8 +32,6 @@
     "eslint": "^6.7.2",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-vue": "^6.2.2",
-    "node-sass": "^4.12.0",
-    "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
   },
   "proxy": "http://localhost:3000"
